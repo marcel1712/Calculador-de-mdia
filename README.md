@@ -1,2 +1,2 @@
 # Calculador de média
- projeto com imagem
+ projeto com imagem!
