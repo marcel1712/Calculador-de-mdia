@@ -1,0 +1,77 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+
+header{
+    background-color: white;
+}
+h1 img{
+    padding: 10px;
+    margin: 20px auto;
+}
+.logomed{
+    width: 150px;
+}
+.caixa{
+    position: relative;
+    width: 1100px;
+	margin: 30px auto;
+}
+nav img{
+    width: 220px;
+}
+nav {
+	position: absolute;
+	top: 0px;
+    right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 40px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+main{
+    background-color: #22416d;
+}
+
+h2{
+    font-size: 100px;
+    text-align: center;
+    color: #44a94d;
+    padding: 10px 10px;
+    font-weight: bold;
+}
+
+.titulosec{
+    font-weight: bold;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+.maincaixa{
+    background-color: royalblue;
+}
+section {
+    color: black;
+    font: normal 15pt Arial;
+    background: white;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 10px auto;
+    margin-bottom: 30px;
+    width: 500px;
+    box-shadow: 5px 5px 10px rgb(100, 97, 97);
+    text-align: center;
+}
+footer{
+    background-color: #edd447;
+    text-align: center;
+}
